@@ -1,8 +1,8 @@
 PATH
   remote: ../..
   specs:
-    rails-angular-xss (0.2.0.pre.pre)
-      rails (>= 5.0.0, < 5.1)
+    rails-angular-xss (0.3.0.pre.pre)
+      rails (>= 5.0.0, < 5.2)
 
 GEM
   remote: http://rubygems.org/
@@ -159,4 +159,4 @@ DEPENDENCIES
   sqlite3
 
 BUNDLED WITH
-   1.12.5
+   1.14.4
